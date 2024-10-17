@@ -1,0 +1,11 @@
+@import "./styles/tailwind.scss";
+
+html {
+  body {
+    @apply flex min-h-screen flex-col;
+
+    footer {
+      @apply mt-auto;
+    }
+  }
+}
