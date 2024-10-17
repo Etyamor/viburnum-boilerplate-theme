@@ -14,7 +14,7 @@ Viburnum Boilerplate Theme is a WordPress starter theme designed to streamline t
 ## Installation
 
 ```sh
-git clone <repository-url>
+git clone git@github.com:Etyamor/viburnum-boilerplate-theme.git
 cd postspublisher
 cp .env.example .env
 ```
